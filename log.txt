@@ -1,0 +1,342 @@
+[2024-02-28 12:35:49]: Key.shift_r
+[2024-02-28 12:35:50]: Key.shift_r
+[2024-02-28 12:35:50]: Key.shift_r
+[2024-02-28 12:35:50]: Key.shift_r
+[2024-02-28 12:35:50]: Key.shift_r
+[2024-02-28 12:35:50]: Key.shift_r
+[2024-02-28 12:35:50]: Key.shift_r
+[2024-02-28 12:35:50]: Key.shift_r
+[2024-02-28 12:35:50]: Key.shift_r
+[2024-02-28 12:35:50]: Key.shift_r
+[2024-02-28 12:35:50]: Key.shift_r
+[2024-02-28 12:35:50]: Key.shift_r
+[2024-02-28 12:35:50]: 'T'
+[2024-02-28 12:35:51]: 'e'
+[2024-02-28 12:35:51]: 's'
+[2024-02-28 12:35:52]: 't'
+[2024-02-28 12:35:53]: Key.enter
+[2024-02-28 12:35:55]: Key.shift_r
+[2024-02-28 12:35:56]: Key.shift_r
+[2024-02-28 12:35:56]: Key.shift_r
+[2024-02-28 12:35:56]: Key.shift_r
+[2024-02-28 12:35:56]: Key.shift_r
+[2024-02-28 12:35:56]: Key.shift_r
+[2024-02-28 12:35:56]: Key.shift_r
+[2024-02-28 12:35:56]: 'A'
+[2024-02-28 12:35:57]: 'n'
+[2024-02-28 12:35:57]: 'o'
+[2024-02-28 12:35:57]: 't'
+[2024-02-28 12:35:58]: 'h'
+[2024-02-28 12:35:58]: 'e'
+[2024-02-28 12:35:58]: 'r'
+[2024-02-28 12:36:00]: Key.space
+[2024-02-28 12:36:01]: 't'
+[2024-02-28 12:36:01]: 'e'
+[2024-02-28 12:36:02]: 's'
+[2024-02-28 12:36:02]: 't'
+[2024-02-28 12:36:02]: Key.enter
+[2024-02-28 13:24:45]: 'h'
+[2024-02-28 13:24:45]: 'i'
+[2024-02-28 13:24:45]: Key.enter
+[2024-02-28 13:24:46]: 'b'
+[2024-02-28 13:24:46]: 'y'
+[2024-02-28 13:24:46]: 'e'
+[2024-02-28 13:24:46]: Key.enter
+[2024-02-28 13:24:47]: Key.ctrl_l
+[2024-02-28 13:24:47]: '\x03'
+[2024-02-28 13:24:50]: Key.esc
+[2024-02-28 13:25:54]: 'h'
+[2024-02-28 13:25:54]: 'e'
+[2024-02-28 13:25:54]: 'l'
+[2024-02-28 13:25:54]: 'l'
+[2024-02-28 13:25:54]: 'o'
+[2024-02-28 13:25:54]: 'w'
+[2024-02-28 13:25:55]: 'o'
+[2024-02-28 13:25:55]: 'r'
+[2024-02-28 13:25:55]: 'l'
+[2024-02-28 13:25:55]: 'd'
+[2024-02-28 13:25:55]: Key.enter
+[2024-02-28 13:25:56]: 'a'
+[2024-02-28 13:25:57]: 'h'
+[2024-02-28 13:25:57]: 'h'
+[2024-02-28 13:25:57]: Key.enter
+[2024-02-28 13:25:58]: Key.ctrl_l
+[2024-02-28 13:25:59]: '\x03'
+[2024-02-28 13:26:00]: Key.esc
+[2024-02-28 13:34:00]: 'a'
+[2024-02-28 13:34:01]: 'h'
+[2024-02-28 13:34:01]: 'h'
+[2024-02-28 13:34:01]: Key.enter
+[2024-02-28 13:34:01]: Key.ctrl_l
+[2024-02-28 13:34:02]: '\x03'
+[2024-02-28 13:34:04]: Key.esc
+[2024-02-28 13:36:22]: 'a'
+[2024-02-28 13:36:23]: 'k'
+[2024-02-28 13:36:23]: Key.enter
+[2024-02-28 13:36:25]: Key.ctrl_l
+[2024-02-28 13:36:25]: '\x03'
+[2024-02-28 13:36:44]: 'o'
+[2024-02-28 13:36:44]: 'k'
+[2024-02-28 13:36:44]: 'a'
+[2024-02-28 13:36:44]: 'y'
+[2024-02-28 13:36:44]: Key.space
+[2024-02-28 13:36:44]: 's'
+[2024-02-28 13:36:45]: 'o'
+[2024-02-28 13:36:45]: Key.enter
+[2024-02-28 13:36:49]: Key.ctrl_r
+[2024-02-28 13:36:49]: '\x03'
+[2024-02-28 13:38:01]: 'h'
+[2024-02-28 13:38:01]: 'i'
+[2024-02-28 13:38:01]: Key.enter
+[2024-02-28 13:38:02]: 'b'
+[2024-02-28 13:38:02]: 'y'
+[2024-02-28 13:38:02]: 'e'
+[2024-02-28 13:38:02]: Key.enter
+[2024-02-28 13:38:03]: 'd'
+[2024-02-28 13:38:03]: 'o'
+[2024-02-28 13:38:03]: 'n'
+[2024-02-28 13:38:03]: 'e'
+[2024-02-28 13:38:03]: Key.enter
+[2024-02-28 13:38:05]: 'k'
+[2024-02-28 13:38:05]: 'i'
+[2024-02-28 13:38:05]: 'l'
+[2024-02-28 13:38:05]: 'l'
+[2024-02-28 13:38:06]: Key.enter
+[2024-02-28 13:38:06]: Key.ctrl_l
+[2024-02-28 13:38:07]: '\x03'
+[2024-02-28 13:38:12]: Key.esc
+[2024-02-28 13:40:12]: 'h'
+[2024-02-28 13:40:12]: 'e'
+[2024-02-28 13:40:12]: 'l'
+[2024-02-28 13:40:12]: 'l'
+[2024-02-28 13:40:12]: 'o'
+[2024-02-28 13:40:12]: Key.enter
+[2024-02-28 13:40:13]: 'w'
+[2024-02-28 13:40:13]: 'o'
+[2024-02-28 13:40:13]: 'r'
+[2024-02-28 13:40:13]: 'l'
+[2024-02-28 13:40:13]: 'd'
+[2024-02-28 13:40:14]: Key.enter
+[2024-02-28 13:40:15]: Key.backspace
+[2024-02-28 13:40:15]: Key.enter
+[2024-02-28 13:40:20]: '8'
+[2024-02-28 13:40:21]: '3'
+[2024-02-28 13:40:21]: Key.enter
+[2024-02-28 13:40:24]: Key.ctrl_l
+[2024-02-28 13:40:25]: Key.alt_l
+[2024-02-28 13:40:25]: <68>
+[2024-02-28 13:43:25]: 'h'
+[2024-02-28 13:43:25]: 'i'
+[2024-02-28 13:43:25]: Key.enter
+[2024-02-28 13:43:26]: Key.alt_gr
+[2024-02-28 13:43:28]: Key.ctrl_l
+[2024-02-28 13:44:33]: Key.cmd
+[2024-02-28 13:44:38]: '2'
+[2024-02-28 13:44:38]: Key.enter
+[2024-02-28 13:44:39]: Key.alt_l
+[2024-02-28 13:44:41]: Key.ctrl_l
+[2024-02-28 13:49:45]: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\chino\venv\lib\site-packages\pynput\_util\__init__.py", line 228, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\chino\venv\lib\site-packages\pynput\keyboard\_win32.py", line 287, in _process
+    self.on_press(key)
+  File "C:\Users\chino\venv\lib\site-packages\pynput\_util\__init__.py", line 144, in inner
+    if f(*args) is False:
+  File "C:\Users\chino\PycharmProjects\CS3710\PA1.py", line 23, in on_press
+    elif key == Key.c and pressedkey:
+  File "C:\Users\chino\AppData\Local\Programs\Python\Python39\lib\enum.py", line 429, in __getattr__
+    raise AttributeError(name) from None
+AttributeError: c
+[2024-02-28 13:51:20]: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\chino\venv\lib\site-packages\pynput\_util\__init__.py", line 228, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\chino\venv\lib\site-packages\pynput\keyboard\_win32.py", line 287, in _process
+    self.on_press(key)
+  File "C:\Users\chino\venv\lib\site-packages\pynput\_util\__init__.py", line 144, in inner
+    if f(*args) is False:
+  File "C:\Users\chino\PycharmProjects\CS3710\PA1.py", line 23, in on_press
+    elif key == Key.c and ctrl_pressed:
+  File "C:\Users\chino\AppData\Local\Programs\Python\Python39\lib\enum.py", line 429, in __getattr__
+    raise AttributeError(name) from None
+AttributeError: c
+[2024-02-28 13:51:41]: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\chino\venv\lib\site-packages\pynput\_util\__init__.py", line 228, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\chino\venv\lib\site-packages\pynput\keyboard\_win32.py", line 287, in _process
+    self.on_press(key)
+  File "C:\Users\chino\venv\lib\site-packages\pynput\_util\__init__.py", line 144, in inner
+    if f(*args) is False:
+  File "C:\Users\chino\PycharmProjects\CS3710\PA1.py", line 23, in on_press
+    if key == Key.c and ctrl_pressed:
+  File "C:\Users\chino\AppData\Local\Programs\Python\Python39\lib\enum.py", line 429, in __getattr__
+    raise AttributeError(name) from None
+AttributeError: c
+[2024-02-28 13:53:04]: 'd'
+[2024-02-28 13:53:04]: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\chino\venv\lib\site-packages\pynput\_util\__init__.py", line 228, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\chino\venv\lib\site-packages\pynput\keyboard\_win32.py", line 287, in _process
+    self.on_press(key)
+  File "C:\Users\chino\venv\lib\site-packages\pynput\_util\__init__.py", line 144, in inner
+    if f(*args) is False:
+  File "C:\Users\chino\PycharmProjects\CS3710\PA1.py", line 23, in on_press
+    if key.char == 'c' and ctrl_pressed:
+AttributeError: 'Key' object has no attribute 'char'
+[2024-02-28 13:53:52]: 'a'
+[2024-02-28 13:53:53]: 'h'
+[2024-02-28 13:53:53]: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\chino\venv\lib\site-packages\pynput\_util\__init__.py", line 228, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\chino\venv\lib\site-packages\pynput\keyboard\_win32.py", line 287, in _process
+    self.on_press(key)
+  File "C:\Users\chino\venv\lib\site-packages\pynput\_util\__init__.py", line 144, in inner
+    if f(*args) is False:
+  File "C:\Users\chino\PycharmProjects\CS3710\PA1.py", line 23, in on_press
+    elif key.char == 'c' and ctrl_pressed:
+AttributeError: 'Key' object has no attribute 'char'
+[2024-02-28 13:54:42]: 'a'
+[2024-02-28 13:54:42]: 'h'
+[2024-02-28 13:54:42]: Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "C:\Users\chino\venv\lib\site-packages\pynput\_util\__init__.py", line 228, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\chino\venv\lib\site-packages\pynput\keyboard\_win32.py", line 287, in _process
+    self.on_press(key)
+  File "C:\Users\chino\venv\lib\site-packages\pynput\_util\__init__.py", line 144, in inner
+    if f(*args) is False:
+  File "C:\Users\chino\PycharmProjects\CS3710\PA1.py", line 23, in on_press
+    elif key.char == 'c' and ctrl_pressed:
+AttributeError: 'Key' object has no attribute 'char'
+[2024-02-28 13:55:52]: 'a'
+[2024-02-28 13:55:52]: 'h'
+[2024-02-28 13:55:53]: Key.enter
+[2024-02-28 13:55:54]: 'o'
+[2024-02-28 13:55:55]: 'k'
+[2024-02-28 13:55:55]: 'a'
+[2024-02-28 13:55:55]: 'y'
+[2024-02-28 13:55:55]: Key.enter
+[2024-02-28 13:55:56]: Key.ctrl_l
+[2024-02-28 13:55:57]: Key.ctrl_l
+[2024-02-28 13:55:57]: '\x03'
+[2024-02-28 13:56:02]: Key.ctrl_r
+[2024-02-28 13:56:02]: '\x03'
+[2024-02-28 13:56:03]: 'a'
+[2024-02-28 13:56:03]: 'k'
+[2024-02-28 13:56:04]: Key.enter
+[2024-02-28 13:56:05]: Key.esc
+[2024-02-28 13:56:07]: Key.esc
+[2024-02-28 13:56:08]: 'f'
+[2024-02-28 13:56:09]: 'k'
+[2024-02-28 13:56:09]: Key.enter
+[2024-02-28 13:56:38]: 'h'
+[2024-02-28 13:56:38]: 'a'
+[2024-02-28 13:56:38]: Key.enter
+[2024-02-28 13:56:40]: Key.esc
+[2024-02-28 13:56:52]: Key.ctrl_l
+[2024-02-28 13:56:54]: Key.ctrl_l
+[2024-02-28 13:56:54]: Key.alt_l
+[2024-02-28 13:56:55]: <68>
+[2024-02-28 13:56:56]: Key.ctrl_l
+[2024-02-28 13:56:56]: Key.ctrl_l
+[2024-02-28 13:56:56]: Key.ctrl_l
+[2024-02-28 13:56:56]: Key.ctrl_l
+[2024-02-28 13:56:56]: Key.ctrl_l
+[2024-02-28 13:56:57]: Key.ctrl_l
+[2024-02-28 13:56:57]: Key.ctrl_l
+[2024-02-28 13:56:57]: '\x03'
+[2024-02-28 13:56:59]: 'f'
+[2024-02-28 13:56:59]: 'j'
+[2024-02-28 13:57:00]: Key.enter
+[2024-02-28 13:57:03]: Key.ctrl_l
+[2024-02-28 13:57:03]: '\x03'
+[2024-02-28 13:57:05]: 'd'
+[2024-02-28 13:57:05]: 'h'
+[2024-02-28 13:57:06]: '\\'
+[2024-02-28 13:57:06]: Key.enter
+[2024-02-28 13:57:07]: Key.esc
+[2024-02-28 14:00:11]: 'h'
+[2024-02-28 14:00:11]: 'f'
+[2024-02-28 14:00:11]: 'a'
+[2024-02-28 14:00:11]: Key.enter
+[2024-02-28 14:00:12]: 's'
+[2024-02-28 14:00:12]: 'k'
+[2024-02-28 14:00:13]: Key.enter
+[2024-02-28 14:00:13]: Key.ctrl_l
+[2024-02-28 14:00:13]: '\x03'
+[2024-02-28 14:00:17]: 'd'
+[2024-02-28 14:00:17]: 'h'
+[2024-02-28 14:00:18]: Key.enter
+[2024-02-28 14:00:18]: Key.ctrl_l
+[2024-02-28 14:00:24]: 'j'
+[2024-02-28 14:00:24]: 'd'
+[2024-02-28 14:00:24]: Key.enter
+[2024-02-28 14:00:25]: 'd'
+[2024-02-28 14:00:26]: ']'
+[2024-02-28 14:00:27]: Key.enter
+[2024-02-28 14:00:29]: '.'
+[2024-02-28 14:00:29]: Key.backspace
+[2024-02-28 14:00:30]: '.'
+[2024-02-28 14:00:31]: "'"
+[2024-02-28 14:00:31]: Key.enter
+[2024-02-28 14:00:33]: '-'
+[2024-02-28 14:00:33]: Key.enter
+[2024-02-28 14:00:35]: Key.delete
+[2024-02-28 14:00:38]: 'f'
+[2024-02-28 14:00:38]: Key.enter
+[2024-02-28 14:00:39]: 'f'
+[2024-02-28 14:00:39]: 'd'
+[2024-02-28 14:00:40]: Key.delete
+[2024-02-28 14:00:41]: Key.delete
+[2024-02-28 14:00:41]: 'd'
+[2024-02-28 14:00:41]: 'a'
+[2024-02-28 14:00:42]: 'n'
+[2024-02-28 14:00:42]: Key.enter
+[2024-02-28 14:01:12]: 'j'
+[2024-02-28 14:01:12]: 'a'
+[2024-02-28 14:01:12]: Key.enter
+[2024-02-28 14:01:13]: Key.ctrl_l
+[2024-02-28 14:01:13]: '\x03'
+[2024-02-28 14:01:18]: 'a'
+[2024-02-28 14:01:18]: Key.enter
+[2024-02-28 14:01:19]: Key.esc
+[2024-02-28 14:12:58]: Key.shift_r
+[2024-02-28 14:13:00]: 'a'
+[2024-02-28 14:13:01]: Key.enter
+[2024-02-28 14:13:01]: 'b'
+[2024-02-28 14:13:01]: Key.enter
+[2024-02-28 14:13:02]: 'c'
+[2024-02-28 14:13:03]: 'c'
+[2024-02-28 14:13:03]: 'c'
+[2024-02-28 14:13:05]: ']'
+[2024-02-28 14:13:06]: Key.backspace
+[2024-02-28 14:13:06]: Key.enter
+[2024-02-28 14:13:06]: 'd'
+[2024-02-28 14:13:06]: 'd'
+[2024-02-28 14:13:07]: 'd'
+[2024-02-28 14:13:07]: Key.enter
+[2024-02-28 14:13:08]: Key.shift
+[2024-02-28 14:13:11]: Key.alt_l
+[2024-02-28 14:13:14]: 'c'
+[2024-02-28 14:13:14]: Key.ctrl_l
+[2024-02-28 14:13:36]: '1'
+[2024-02-28 14:13:37]: Key.enter
+[2024-02-28 14:13:38]: Key.ctrl_l
+[2024-02-28 14:13:40]: Key.alt_l
+[2024-02-28 14:13:43]: Key.ctrl_l
+[2024-02-28 14:13:43]: '\x03'
+[2024-02-28 14:13:46]: Key.esc
+[2024-02-28 14:14:28]: 'a'
+[2024-02-28 14:14:29]: 'b'
+[2024-02-28 14:14:29]: 'c'
+[2024-02-28 14:14:30]: Key.enter
+[2024-02-28 14:14:32]: Key.ctrl_l
+[2024-02-28 14:14:32]: '\x03'
+[2024-02-28 14:22:01]: 'a'
+[2024-02-28 14:22:01]: 'h'
+[2024-02-28 14:22:02]: Key.enter
+[2024-02-28 14:22:04]: Key.ctrl_l
